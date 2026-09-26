@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DriveNext</string>
+    <string name="slogan">Поможем найти твою следующую поездку</string>
+    <string name="no_internet_title">Нет подключения\nк интернету</string>
+    <string name="no_internet_subtitle">Проверьте подключение и повторите попытку</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="skip">Пропустить</string>
+    <string name="next">Далее</string>
+    <string name="go">Поехали</string>
+</resources>
