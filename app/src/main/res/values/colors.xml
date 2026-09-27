@@ -1,10 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DriveNext</string>
-    <string name="slogan">Поможем найти твою следующую поездку</string>
-    <string name="no_internet_title">Нет подключения\nк интернету</string>
-    <string name="no_internet_subtitle">Проверьте подключение и повторите попытку</string>
-    <string name="retry">Повторить попытку</string>
-    <string name="skip">Пропустить</string>
-    <string name="next">Далее</string>
-    <string name="go">Поехали</string>
+    <color name="purple_primary">#3D1E4B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="gray_light">#CCCCCC</color>
 </resources>
